@@ -1,16 +1,35 @@
-## Hi there 👋
+👋 Hi, I'm Anshul Kumar
 
-<!--
-**anshulrajput730714-byte/anshulrajput730714-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student | Aspiring Web Developer
 
-Here are some ideas to get you started:
+💻 I am learning web development and programming.
+🌱 Currently learning HTML, CSS, Java, and JavaScript.
+🚀 My goal is to build useful projects and improve my coding skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+👨‍💻 About Me
+
+- 🎓 B.Tech Computer Science Engineering Student
+- 🌱 Learning Web Development
+- 💡 Interested in building websites and software
+- 🎯 Working on improving my programming skills
+
+🛠️ Tech Stack
+
+"HTML5" (https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+"Java" (https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+
+🚀 My Projects
+
+- 🌐 MERN — My web development repository
+
+📫 Connect With Me
+
+- 💻 GitHub: "Anshul Kumar" (https://github.com/anshulrajput730714-byte)
+
+---
+
+⭐ Thanks for visiting my profile!
