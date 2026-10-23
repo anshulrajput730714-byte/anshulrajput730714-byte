@@ -1,4 +1,4 @@
-👋 Hi, I'm Anshul Kumar
+👋 Hi, I'm <h1>Anshul Kumar</h1>
 
 🎓 B.Tech CSE Student | Aspiring Web Developer
 
@@ -8,14 +8,14 @@
 
 ---
 
-👨‍💻 <strong>About Me</strong>
+👨‍💻 <h1>About Me</h1>
 
 - 🎓 B.Tech Computer Science Engineering Student
 - 🌱 Learning Web Development
 - 💡 Interested in building websites and software
 - 🎯 Working on improving my programming skills
 
-🛠️ Tech Stack
+🛠️ <h1>Tech Stack</h1>
 
 "### 🛠️ Tech Stack
 
