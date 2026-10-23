@@ -1,4 +1,4 @@
-👋 Hi, I'm <h1>Anshul Kumar</h1>
+<h3>👋 Hi, I'm </h3><h1>Anshul Kumar</h1>
 
 🎓 B.Tech CSE Student | Aspiring Web Developer
 
