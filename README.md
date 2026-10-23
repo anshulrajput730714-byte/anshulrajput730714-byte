@@ -8,7 +8,7 @@
 
 ---
 
-👨‍💻 About Me
+👨‍💻 <strong>About Me</strong>
 
 - 🎓 B.Tech Computer Science Engineering Student
 - 🌱 Learning Web Development
